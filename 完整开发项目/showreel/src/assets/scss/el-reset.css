@@ -1,0 +1,8 @@
+.el-reset {
+  display: flex!important;
+  width: 100%;
+}
+
+.el-reset .el-form-item__content {
+  flex: 1;
+}
